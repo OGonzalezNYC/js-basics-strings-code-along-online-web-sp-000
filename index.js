@@ -9,4 +9,4 @@
 // const shortGreeting = 'Welcome, ' + currentUser[0] + '!';
 const currentUser = 'Grace Hopper';
 const welcomeMessage = `Welcome to Flatbook, ${currentUser}!`;
-const excitedWelcomeMessage = welcomeMessage.toUpperCas()e;
+const excitedWelcomeMessage = welcomeMessage.toUpperCase();
