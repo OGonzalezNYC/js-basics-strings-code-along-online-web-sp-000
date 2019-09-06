@@ -8,5 +8,4 @@
 
 // const shortGreeting = 'Welcome, ' + currentUser[0] + '!';
 const currentUser = 'Grace Hopper';
-const welcomeMessage = 'Welcome to Flatbook, ' + currentUser + "!";
-//const excitedWelcomeMessage = 
+const welcomeMessage = `Welcome to Flatbook, ${currentUser}!};
